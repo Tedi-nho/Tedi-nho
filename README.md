@@ -1,6 +1,6 @@
 ## Hola 👋
 
-:computer: Desarrollador Junior para Sodeker
+:computer: Desarrollador Junior en proceso
 
 
 
