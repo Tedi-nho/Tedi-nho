@@ -1,6 +1,6 @@
-## Hola 👋
+## Hola :p
 
-:computer: Desarrollador Junior en proceso
+:computer: Desarrollador Junior
 
 
 
